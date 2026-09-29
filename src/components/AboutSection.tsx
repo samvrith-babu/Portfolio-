@@ -20,7 +20,7 @@ export const AboutSection: React.FC = () => {
             About <span className="text-[#00FF9C]">Samvrith</span>
           </h2>
           <p className="mt-3 text-slate-400 text-sm sm:text-base max-w-xl">
-            First-year cybersecurity undergraduate architecting a resilient foundation in ethical defense and security automation.
+            First-year cse cybersecurity undergraduate architecting a resilient foundation in ethical defense and security automation.
           </p>
         </div>
 
@@ -71,7 +71,7 @@ export const AboutSection: React.FC = () => {
               <div className="mt-6 pt-6 border-t border-slate-800/80 flex flex-wrap gap-2">
                 <span className="px-3 py-1 rounded-md bg-[#05070A] border border-slate-800 text-xs font-mono text-slate-300 flex items-center gap-1.5">
                   <MapPin className="w-3.5 h-3.5 text-[#00E5FF]" />
-                  Kannur, Kerala
+                  Kerala
                 </span>
                 <span className="px-3 py-1 rounded-md bg-[#05070A] border border-slate-800 text-xs font-mono text-[#00FF9C] flex items-center gap-1.5">
                   <Cpu className="w-3.5 h-3.5 text-[#00FF9C]" />
