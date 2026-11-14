@@ -82,7 +82,7 @@ export const HeroSection: React.FC = () => {
           className="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-[#090D14]/90 border border-[#00FF9C]/30 text-xs font-mono text-slate-300 shadow-[0_0_15px_rgba(0,255,156,0.15)] mb-8"
         >
           <span className="w-2 h-2 rounded-full bg-[#00FF9C] shadow-[0_0_8px_#00FF9C] animate-pulse" />
-          <span className="text-[#00FF9C] font-medium">CYBER_DEFENSE_NODE</span>
+          <span className="text-[#00FF9C] font-medium">CYBERSECURITY_STUDENTS</span>
           <span className="text-slate-600">|</span>
           <span className="text-slate-300 flex items-center gap-1">
             <MapPin className="w-3 h-3 text-[#00E5FF]" />
